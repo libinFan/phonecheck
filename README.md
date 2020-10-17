@@ -1,1 +1,2 @@
 phonecheck
+init message
