@@ -1,2 +1,0 @@
-phonecheck
-init message
